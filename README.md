@@ -1,7 +1,8 @@
 # Burç Rehberi
-![Proje Görseli](https://github.com/kodbutonu/Burc/blob/Burc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-23%20193052.png)
-![Proje Görseli](https://github.com/kodbutonu/Burc/blob/Burc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-23%20193153.png)
-![Proje Görseli](https://github.com/kodbutonu/Burc/blob/Burc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-23%20193316.png)
+
+<img src="https://github.com/kodbutonu/Burc/blob/Burc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-23%20193052.png" width="300">
+<img src="https://github.com/kodbutonu/Burc/blob/Burc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-23%20193153.png" width="300">
+<img src="https://github.com/kodbutonu/Burc/blob/Burc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-23%20193316.png" width="300">
 
 Burç Rehberi, Flutter ile geliştirilen bir projedir. Bu uygulama, burçlar hakkında bilgi almanıza ve renkler için ColorPalette kütüphanesini kullanmanıza olanak tanır.
 
