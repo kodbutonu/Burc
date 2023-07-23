@@ -1,16 +1,27 @@
-# burc
+# Burç Rehberi
 
-A new Flutter project.
+![Stars](https://img.shields.io/github/stars/kodbutonu/Burc?style=flat-square)
+![Forks](https://img.shields.io/github/forks/kodbutonu/Burc?style=flat-square)
+![Watchers](https://img.shields.io/github/watchers/kodbutonu/Burc?style=flat-square)
 
-## Getting Started
+Burç Rehberi, Flutter ile geliştirilen bir projedir. Bu uygulama, burçlar hakkında bilgi almanıza ve renkler için ColorPalette kütüphanesini kullanmanıza olanak tanır.
 
-This project is a starting point for a Flutter application.
+## Başlangıç
 
-A few resources to get you started if this is your first Flutter project:
+Bu proje, Flutter uygulamalarının başlangıç ​​noktasıdır. Eğer bu sizin ilk Flutter projeniz ise, aşağıdaki kaynaklar size yardımcı olabilir:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter'da ilk uygulamanızı yazın](https://flutter.dev/docs/get-started/codelab)
+- [Yararlı Flutter örnekleri için Cookbook](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter hakkında daha fazla bilgi edinmek için, çevrimiçi dokümantasyonumuzu ziyaret edebilirsiniz. Dokümantasyon, Flutter ile ilgili öğreticiler, örnekler, mobil geliştirme konusundaki rehberlik ve kapsamlı bir API referansı sunar.
+
+## Hakkında
+
+- Proje: Flutter Project
+- Diller: Dart (%97.2), Swift (%1.9), Diğer (%0.9)
+
+## Katkıda Bulunma
+
+Eğer bu projeye katkıda bulunmak istiyorsanız, fork (çatal) işlemiyle kendi kopyanızı oluşturabilir ve ardından değişikliklerinizi yapabilirsiniz. Daha sonra bu değişiklikleri pull request (çekme isteği) ile ana projeye gönderebilirsiniz.
+
+Desteğiniz için teşekkür ederiz!
