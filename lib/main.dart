@@ -97,8 +97,8 @@ class MyApp extends StatelessWidget {
           ),
         ),
         outlinedButtonTheme: OutlinedButtonThemeData(
-          style: OutlinedButton.styleFrom(
-            primary: Colors.purple,
+          style: OutlinedButton.styleFrom(git che
+            primary: Colors.purple ,
             backgroundColor: Colors.green,
           ),
         ),
