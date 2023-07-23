@@ -9,7 +9,19 @@
 
 
 
-Burç Rehberi, Flutter ile geliştirilen bir projedir. Bu uygulama, burçlar hakkında bilgi almanıza ve renkler için ColorPalette kütüphanesini kullanmanıza olanak tanır.
+Burç Rehberi: Burçlar Hakkında Sohbet, Burç Detayı ve Aşk Uyumu
+
+Burç Rehberi, insanlarla burçlar hakkında sohbet etme ve burçların detaylı analizlerini sunma amacıyla geliştirilen bir Flutter projesidir. Bu uygulama, kullanıcılara burçları anlama, özelliklerini keşfetme ve burçlar arasındaki aşk uyumunu sağlama konusunda önemli bilgiler sunar.
+
+Burçlar Hakkında Sohbet: Burç Rehberi, kullanıcılara farklı burçlar hakkında bilgi alabileceği bir platform sunar. Kullanıcılar, burçlarının genel özelliklerini, kişilik yapılarını, güçlü ve zayıf yönlerini burç rehberi sayesinde öğrenebilirler. Uygulama, her burcun temsil ettiği elementleri, gezegenleri ve burçlar arasındaki ilişkileri açıklayarak, kullanıcılara burçların etkileyici dünyasını keşfetme fırsatı verir.
+
+Burç Detayı: Burç Rehberi, kullanıcılara her bir burcun ayrıntılı analizini sunar. Burçların genel özelliklerinin yanı sıra, burçların özel günlükleri ve haftalık yorumları da uygulama içinde yer alır. Kullanıcılar, burçların yönetici gezegenlerini, burçların elementlerini ve bu elementlerin kişilik üzerindeki etkilerini inceleyebilirler. Burçların astrolojik anlamlarını ve geçmiş kültürlerdeki önemini de öğrenme imkanı bulurlar.
+
+Aşk Uyumu: Burç Rehberi, aşk ve ilişkiler konusunda da kullanıcılara önemli bilgiler sunar. Kullanıcılar, burçların birbiriyle uyumu hakkında bilgi alarak, ilişkilerindeki olası zorlukları ve uyumlu yönleri anlama fırsatı bulurlar. Aşk uyumu analizleri, kullanıcıların potansiyel partnerleriyle olan ilişkilerini daha iyi anlamalarına yardımcı olur ve daha sağlıklı ve mutlu bir ilişki sürecine katkıda bulunur.
+
+Burç Rehberi uygulaması, kullanıcı dostu arayüzü ve zengin içeriğiyle, burçlar ve astroloji dünyasına meraklı olan herkes için bir başvuru kaynağı ve sohbet platformu olarak hizmet vermektedir. Kullanıcılar, bu uygulama sayesinde burçların büyülü dünyasına dalarak kendilerini ve çevrelerindeki insanları daha iyi anlama şansı yakalarlar. Aynı zamanda, burçların etkileyici dünyasını keşfederken eğlenceli bir yolculuğa çıkarlar.
+
+Burç Rehberi, insanların hayatına astroloji ve burçlarla ilgili önemli bir bakış açısı getirerek, kişisel gelişimlerine ve ilişkilerine katkıda bulunmaktadır. Bu uygulama, kullanıcıların burçlar hakkında sohbet etmesini, burç detaylarını keşfetmesini ve aşk uyumlarını analiz etmesini sağlayarak, burçların büyülü dünyasını kullanıcıların parmaklarına getiriyor.
 
 ## Başlangıç
 
