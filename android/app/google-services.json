@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222203136239",
+    "project_id": "burc-13ca1",
+    "storage_bucket": "burc-13ca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222203136239:android:ba3a587b1111b54cc2731a",
+        "android_client_info": {
+          "package_name": "com.example.burc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222203136239-ng8ttbormid46pb6cn1a3n79e5qk3cn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5-JBr5QuRU9JyJg3witavlMYsURfFRcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222203136239-ng8ttbormid46pb6cn1a3n79e5qk3cn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
